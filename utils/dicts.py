@@ -14,4 +14,3 @@ def get_val(collection, key, default='git'):
 
 
 
-print(get_val({}, "petka",  "git"))
